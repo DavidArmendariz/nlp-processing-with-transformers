@@ -17,6 +17,7 @@ dependencies = [
     "umap-learn~=0.5.6",
     "huggingface-hub~=0.23.0",
     "accelerate~=0.30.0",
+    "bertviz>=1.4.0",
 ]
 requires-python = ">=3.11"
 readme = "README.md"
